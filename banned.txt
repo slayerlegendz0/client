@@ -1,3 +1,1 @@
-
-hwid1:test:test
-test:test:test
+HWID:STAFF:REASON
